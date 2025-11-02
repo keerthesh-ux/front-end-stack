@@ -1,0 +1,38 @@
+.signalbox
+{
+  height: 400px;
+  width: 200px;
+  background-image: url("image.png");
+  padding-top:20px;
+  border-radius: 20px;
+}
+#red
+{
+  height: 100px;
+  width: 105px;
+  background-color: red;
+  border-radius: 50%;
+  margin-bottom: 25px;
+  margin-left: 50px;
+  {
+    background-color: black      ;
+  }
+}
+#yellow
+{
+  height: 100px;
+  width: 105px;
+  background-color: yellow;
+  border-radius: 50%;
+  margin-bottom: 25px;
+  margin-left: 50px;
+
+}
+#green
+{
+  height: 100px;
+  width: 105px;
+  background-color: green;
+  border-radius: 50%;
+  margin-left: 50px;
+}
